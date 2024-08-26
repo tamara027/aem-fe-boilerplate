@@ -1,2 +1,5 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1Y5f7fzdPWREApjjjafRNse3ukwguPEyx?usp=drive_link
+  /:
+    url: "https://author-p139364-e1423304.adobeaemcloud.com/bin/franklin.delivery/tamara027/fe-boilerplate/main"
+    type: "markup"
+    suffix: ".html"
